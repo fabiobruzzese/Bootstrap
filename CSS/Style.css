@@ -27,7 +27,7 @@ body{
 	background-color: #D4FFFD;
 }
 
-.servicetext{
-	padding-top: 50px;
-	
+.bg-footer{
+	background-color: black;
+	color: white;
 }

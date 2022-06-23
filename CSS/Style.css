@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body{
+	font: 20px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.navbar {
+	background-color: #17A589;
+}
+
+.about-us{
+	background-color: #5DADE2;
+	color: white;
+}
+
+.margin{
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.rounded-circle{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.partners{
+	background-color: #D4FFFD;
+}
+
+.servicetext{
+	padding-top: 50px;
+	
+}

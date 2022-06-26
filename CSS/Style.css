@@ -11,10 +11,17 @@ body{
 	color: white;
 }
 
+.text-container{
+	max-width:60%;
+	align-content: center;
+	text-align: justify;
+}
+
 .margin{
 	padding-top: 10px;
 	padding-bottom: 50px;
 }
+
 
 .rounded-circle{
 	padding-top: 30px;
